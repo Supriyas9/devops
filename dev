@@ -1,8 +1,8 @@
-public class dev{
-    public static void main(Strings[] args){
-    int a=9;
-    int b=7;
-    int sum =a+b;
-    System.out.println(sum);
-   }
-}
+    public class dev{
+        public static void main(Strings[] args){
+        int a=9;
+        int b=7;
+        int sum =a+b;
+        System.out.println(sum);
+       }    
+    }
